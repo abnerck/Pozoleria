@@ -1,0 +1,6 @@
+{
+  "name": "Pozolería El Pueblito — Guadalajara",
+  "description": "Pozolería tradicional tapatía en el Barrio de Mexicaltzingo, Guadalajara. Maíz cacahuazintle nixtamalizado, pozole rojo, verde y blanco, antojitos jaliscienses, pedidos en línea y reservación de mesas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
